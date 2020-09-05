@@ -37,7 +37,7 @@ Lo anterior, se traduce en el siguiente modelo, donde se aplica el
 principio de inversión de dependencias:
 
 
-![](img/model.png)
+![https://github.com/PaulaSanchez810/CVDS-Lab4-Grupo5/blob/master/img/model.puml](img/model.png)
 
 
 ### Parte I
