@@ -69,7 +69,12 @@ principio de inversión de dependencias:
    condiciones de frontera. 
 
 7. Para cada clase de equivalencia y condición de frontera, implemente
-   una prueba utilizando JUnit.
+   una prueba utilizando JUnit
+   
+   #*clase de equivalencia
+   
+   ![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab4-Grupo5/blob/master/img/OriginalScore-BunusScore.png)
+   ![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab4-Grupo5/blob/master/img/PowerBonuScore.png)
 
 8. Haga commit de lo realizado hasta ahora. Desde la terminal:
 
